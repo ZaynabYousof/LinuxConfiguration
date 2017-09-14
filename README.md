@@ -32,7 +32,7 @@ Last Project of Nanodegree Program
 # change the port to 22  
 - go to ->  sudo nano /etc/ssh/sshd_config
 - search for  port (Port 22) to (Port 2200)
-- Login again -> ssh grader@52.29.79.147 -p 2200
+- Login again -> ssh grader@35.158.93.110 -p 2200
 
 #  login with key (key based )
 - create file on my local machine I put it in this repository 
